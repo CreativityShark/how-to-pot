@@ -1,0 +1,50 @@
+.box {
+  background-color: lightgray;
+  margin: 30px;
+  padding: 30px;
+  border-color: #303030;
+  border-radius: 10px;
+  border-style: solid;
+  border-width: 5px;
+}
+
+.side_img {
+  display: block;
+  float: right;
+  margin: 10px;
+}
+
+#flag {
+  margin-top: 0px;
+  padding-top: 0px;
+  width: 128px;
+}
+
+body {
+  background-color: #4e6642;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 18px;
+}
+
+img {
+  display: block;
+  height: 40%;
+  width: 40%;
+  border-radius: 10px;
+  margin: auto;
+}
+
+h1, h2 {
+  font-style: oblique;
+  margin: 30px;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  font-size: 48px;
+}
+
+h2 {
+  font-size: 32px;
+}
